@@ -1,2 +1,2 @@
-# heollo-world
+# hello-world
 hello-world practice repository 
